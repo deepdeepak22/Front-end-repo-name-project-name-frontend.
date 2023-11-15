@@ -1,0 +1,52 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  background-color: black;
+  color: antiquewhite;
+  height: 80px;
+  padding: 20px;
+}
+.sub-cont {
+  margin-left: 90px;
+  text-decoration: none;
+  color: white;
+  font-weight: bolder;
+}
+.butn {
+  margin-left: 500px;
+}
+.body-content {
+  display: flex;
+  flex-direction: row;
+}
+.words {
+  width: 500px;
+  height: 50px;
+  margin-top: 150px;
+}
+.pic-content {
+  height: 500px;
+  width: 700px;
+  margin-left: 100px;
+  margin-top: 20px;
+}
+.content-button {
+  margin-top: -200px;
+}
+.footer-content {
+  margin-top: 170px;
+  width: 250px;
+  padding: 50px;
+}
+.sub-heading {
+  width: 250px;
+  text-decoration: solid;
+}
+.footer {
+  display: flex;
+
+  justify-content: space-between;
+}
+.footer-video{
+  margin-top: 190px;
+}
